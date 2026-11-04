@@ -1,0 +1,50 @@
+{
+  "input_image": "C:\\Tamil_Dataset\\test.png",
+  "status": "RECOGNIZED",
+  "top_prediction": "ய",
+  "confidence": 0.22846240820773872,
+  "distance": 0.7972298860549927,
+  "category": "உயிர்மெய்",
+  "top_k_candidates": [
+    {
+      "class": "ய",
+      "confidence": 0.22846240820773872,
+      "distance": 0.7972298860549927,
+      "rejected": false,
+      "rank": 1,
+      "category": "உயிர்மெய்"
+    },
+    {
+      "class": "ப",
+      "confidence": 0.2191298079947158,
+      "distance": 0.8389372825622559,
+      "rejected": false,
+      "rank": 2,
+      "category": "உயிர்மெய்"
+    },
+    {
+      "class": "ம",
+      "confidence": 0.20060335599770523,
+      "distance": 0.9272719621658325,
+      "rejected": false,
+      "rank": 3,
+      "category": "உயிர்மெய்"
+    },
+    {
+      "class": "உ",
+      "confidence": 0.18579963332607521,
+      "distance": 1.0039327144622803,
+      "rejected": false,
+      "rank": 4,
+      "category": "உயிர்"
+    },
+    {
+      "class": "ட்",
+      "confidence": 0.16600479447376504,
+      "distance": 1.1165848970413208,
+      "rejected": false,
+      "rank": 5,
+      "category": "மெய்"
+    }
+  ]
+}

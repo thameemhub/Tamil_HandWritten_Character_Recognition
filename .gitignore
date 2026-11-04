@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+build/
+dist/
+*.egg-info/
+
+# Testing & Cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE & OS
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Data: Ignore bulky image caches (reproducible via `python -m src.prepare_data`)
+# Keep metadata, splits, manifests, and prototype vectors
+data/interim/
+data/processed/images/
+data/support_set/*/*.png

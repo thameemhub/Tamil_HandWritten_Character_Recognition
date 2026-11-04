@@ -1,0 +1,84 @@
+# ──────────────────────────────────────────────
+#  Tamil Few-Shot HTR – master configuration
+# ──────────────────────────────────────────────
+
+paths:
+  dataset_root: "C:\\Tamil_Dataset\\dataset\\Final Tamil Letter Dataset"
+  project_root: "C:\\Tamil_Dataset\\tamil-fewshot-htr"
+  data_dir: "data"
+  processed_dir: "data/processed"
+  interim_dir: "data/interim"
+  support_set_dir: "data/support_set"
+  models_dir: "models"
+  reports_dir: "reports"
+
+preprocessing:
+  image_size: 64
+  use_binarization: true          # false → soft (non-binarized) grayscale
+  denoise_strength: 5             # fastNlMeansDenoising h parameter
+  ink_on_black: true              # normalize to white-ink-on-black
+  crop_margin_fraction: 0.1       # fraction of bbox to add as margin
+  composite_bg_color: [255, 255, 255]  # alpha compositing background
+
+augmentation:
+  rotation_range: 10              # degrees ±
+  shift_range: 0.1                # fraction
+  zoom_range: 0.1                 # fraction
+  shear_range: 5                  # degrees
+  elastic_alpha: 15.0
+  elastic_sigma: 3.0
+  noise_std: 0.02
+  blur_kernel_range: [3, 5]
+  brightness_range: [0.8, 1.2]
+  contrast_range: [0.8, 1.2]
+  stroke_thickness_range: [-1, 1] # erosion (-) / dilation (+) pixels
+
+fewshot:
+  embedding_dim: 64
+  backbone: "conv4"               # conv4 | resnet12
+  train_way: 20
+  test_ways: [5, 10, 20]          # evaluated at each
+  shots: [1, 3, 5]
+  query_per_class: 5
+  episodes_per_epoch: 200
+  num_epochs: 50
+  lr: 0.001
+  lr_scheduler: "step"            # step | cosine
+  lr_step_size: 20
+  lr_gamma: 0.5
+  early_stopping_patience: 10
+  temperature_learnable: true
+
+siamese:
+  loss: "triplet"                 # contrastive | triplet
+  margin: 1.0
+  mining: "semi-hard"             # random | hard | semi-hard
+
+baseline:
+  num_epochs: 80
+  lr: 0.001
+  batch_size: 64
+  weight_decay: 0.0001
+
+evaluation:
+  num_test_episodes: 600
+  confidence_level: 0.95
+  open_set_percentile: 95         # percentile on val distances for threshold
+
+splits:
+  protocol_a:
+    train_ratio: 0.6
+    val_ratio: 0.2
+    test_ratio: 0.2
+  protocol_b:
+    base_ratio: 0.70
+    val_ratio: 0.15
+    novel_ratio: 0.15
+
+seed: 42
+
+tamil_font:
+  primary: "Nirmala UI"
+  fallback: "Noto Sans Tamil"
+  size: 18
+

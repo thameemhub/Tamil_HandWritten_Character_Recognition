@@ -1,0 +1,104 @@
+class_name,category,image_count,valid_count,formats,source_groups,min_resolution,max_resolution,mean_resolution
+ஃ,ஆய்தம,46,46,.png:46,numeric:46,48x48,48x48,48x48
+அ,உயிர்,45,45,.png:45,numeric:45,48x48,48x48,48x48
+ஆ,உயிர்,43,43,.png:43,numeric:43,48x48,48x48,48x48
+இ,உயிர்,44,44,.png:44,numeric:44,48x48,48x48,48x48
+ஈ,உயிர்,44,44,.png:44,numeric:44,48x48,48x48,48x48
+உ,உயிர்,45,45,.png:45,numeric:45,48x48,48x48,48x48
+ஊ,உயிர்,41,41,.png:41,numeric:9; IMG:15; PXL:1; Scanned:16,48x48,48x48,48x48
+எ,உயிர்,42,42,.png:42,numeric:8; IMG:14; PXL:1; Scanned:4; WhatsApp:15,48x48,48x48,48x48
+ஏ,உயிர்,31,31,.png:31,numeric:3; IMG:11; PXL:1; Scanned:3; WhatsApp:13,48x48,48x48,48x48
+ஐ,உயிர்,41,41,.png:41,numeric:7; IMG:14; PXL:1; Scanned:4; WhatsApp:15,48x48,48x48,48x48
+ஒ,உயிர்,42,42,.png:42,numeric:8; IMG:15; PXL:1; Scanned:4; WhatsApp:14,48x48,48x48,48x48
+ஓ,உயிர்,47,47,.png:47,numeric:47,48x48,48x48,48x48
+ஔ,உயிர்,44,44,.png:44,numeric:44,48x48,48x48,48x48
+க,உயிர்மெய்,41,41,.png:41,numeric:41,48x48,48x48,48x48
+கா,உயிர்மெய்,41,41,.png:41,numeric:41,48x48,48x48,48x48
+கி,உயிர்மெய்,26,26,.png:26,numeric:26,48x48,48x48,48x48
+கீ,உயிர்மெய்,33,33,.png:33,numeric:5; IMG:12; PXL:1; Scanned:4; Screenshot:11,37x48,48x48,47x48
+கு,உயிர்மெய்,46,46,.png:46,numeric:46,48x48,48x48,48x48
+கூ,உயிர்மெய்,45,45,.png:45,numeric:45,48x48,48x48,48x48
+கெ,உயிர்மெய்,44,44,.png:44,numeric:44,48x48,48x48,48x48
+கே,உயிர்மெய்,45,45,.png:45,numeric:45,48x48,48x48,48x48
+கை,உயிர்மெய்,30,30,.jpg:30,numeric:3; IMG:27,45x39,45x45,45x44
+கொ,உயிர்மெய்,27,27,.jpeg:1; .jpg:26,numeric:6; IMG:16; PXL:1; Scanned:4,45x44,45x45,45x44
+கோ,உயிர்மெய்,27,27,.jpeg:1; .jpg:26,numeric:5; IMG:16; PXL:1; Scanned:5,45x45,45x45,45x45
+கௌ,உயிர்மெய்,30,30,.jpeg:1; .jpg:29,numeric:2; IMG:28,45x45,45x45,45x45
+ஞு,உயிர்மெய்,36,36,.png:36,numeric:7; IMG:15; PXL:1; Scanned:1; Screenshot:12,48x48,48x48,48x48
+ஞூ,உயிர்மெய்,35,35,.png:35,Screenshot:35,48x48,48x48,48x48
+ஞெ,உயிர்மெய்,34,34,.png:34,Screenshot:34,48x46,48x48,48x47
+ஞே,உயிர்மெய்,35,35,.png:35,Screenshot:35,48x48,48x48,48x48
+ஞை,உயிர்மெய்,37,37,.png:37,numeric:37,48x48,48x48,48x48
+ஞொ,உயிர்மெய்,37,37,.png:37,numeric:37,48x48,48x48,48x48
+ஞோ,உயிர்மெய்,37,37,.png:37,numeric:37,48x48,48x48,48x48
+ஞௌ,உயிர்மெய்,35,35,.png:35,numeric:35,48x48,48x48,48x48
+டை,உயிர்மெய்,36,36,.png:36,numeric:36,48x48,48x48,48x48
+டொ,உயிர்மெய்,37,37,.png:37,numeric:37,48x48,48x48,48x48
+டோ,உயிர்மெய்,33,33,.png:33,numeric:33,48x48,48x48,48x48
+டௌ,உயிர்மெய்,34,34,.png:34,numeric:34,48x48,48x48,48x48
+து,உயிர்மெய்,12,12,.png:12,numeric:6; IMG:5; Scanned:1,48x48,48x48,48x48
+தூ,உயிர்மெய்,32,32,.png:32,numeric:17; IMG:13; PXL:1; Scanned:1,48x48,48x48,48x48
+தெள,உயிர்மெய்,33,33,.png:33,numeric:6; IMG:16; PXL:1; Scanned:1; WhatsApp:9,48x48,48x48,48x48
+தை,உயிர்மெய்,25,25,.png:25,WhatsApp:25,101x63,1670x1234,577x344
+தொ,உயிர்மெய்,25,25,.png:25,WhatsApp:25,162x77,1961x1257,648x396
+தோ,உயிர்மெய்,21,21,.png:21,numeric:5; IMG:14; PXL:1; Scanned:1,117x73,1979x1352,627x391
+நே,உயிர்மெய்,33,33,.png:33,numeric:6; IMG:16; PXL:1; Scanned:1; Screenshot:9,48x48,48x48,48x48
+னீ,உயிர்மெய்,26,26,.png:26,numeric:6; IMG:10; PXL:1; Scanned:1; Screenshot:8,48x48,48x48,48x48
+னை,உயிர்மெய்,69,69,.png:69,Screenshot:67; numeric:2,48x48,48x48,48x48
+னொ,உயிர்மெய்,31,31,.png:31,Screenshot:31,48x48,48x48,48x48
+னோ,உயிர்மெய்,34,34,.png:34,Screenshot:34,48x48,48x48,48x48
+னௌ,உயிர்மெய்,38,38,.png:38,Screenshot:38,48x48,48x48,48x48
+பு,உயிர்மெய்,36,36,.png:36,Screenshot:36,40x40,40x40,40x40
+பூ,உயிர்மெய்,35,35,.png:35,Screenshot:35,40x40,40x40,40x40
+பெ,உயிர்மெய்,35,35,.png:35,Screenshot:35,40x40,40x40,40x40
+பே,உயிர்மெய்,33,33,.png:33,Screenshot:33,40x40,40x40,40x40
+பை,உயிர்மெய்,41,41,.png:41,numeric:7; IMG:20; PXL:1; Scanned:12; Screenshot:1,48x48,48x48,48x48
+பொ,உயிர்மெய்,41,41,.png:41,numeric:6; IMG:20; PXL:1; Scanned:13; Screenshot:1,48x48,48x48,48x48
+போ,உயிர்மெய்,40,40,.png:40,numeric:5; IMG:20; PXL:1; Scanned:13; Screenshot:1,48x48,48x48,48x48
+பௌ,உயிர்மெய்,41,41,.png:41,numeric:6; IMG:20; PXL:1; Scanned:13; Screenshot:1,48x48,48x48,48x48
+ம,உயிர்மெய்,36,36,.png:36,WhatsApp:36,48x48,48x48,48x48
+மா,உயிர்மெய்,34,34,.png:34,WhatsApp:34,48x48,48x48,48x48
+மி,உயிர்மெய்,16,16,.png:16,WhatsApp:16,48x48,48x48,48x48
+மீ,உயிர்மெய்,34,34,.png:34,WhatsApp:34,48x48,48x48,48x48
+ய,உயிர்மெய்,37,37,.png:1; .jpg:36,resized:24; Scanned:13,48x48,48x48,48x48
+யா,உயிர்மெய்,35,35,.jpg:35,resized:24; Scanned:11,48x48,48x48,48x48
+யி,உயிர்மெய்,36,36,.jpg:36,resized:23; Scanned:13,48x48,48x48,48x48
+யீ,உயிர்மெய்,34,34,.png:2; .jpg:32,numeric:1; resized:22; Scanned:11,48x48,48x48,48x48
+யு,உயிர்மெய்,32,32,.png:32,numeric:8; IMG:13; PXL:1; Scanned:1; Screenshot:9,48x48,48x48,48x48
+யூ,உயிர்மெய்,29,29,.png:29,numeric:7; IMG:9; PXL:1; Scanned:1; Screenshot:11,48x48,48x48,48x48
+யெ,உயிர்மெய்,36,36,.png:36,numeric:7; IMG:17; PXL:1; Scanned:1; Screenshot:10,48x48,48x48,48x48
+யே,உயிர்மெய்,31,31,.png:31,numeric:7; IMG:13; PXL:1; Scanned:1; Screenshot:9,48x48,48x48,48x48
+யை,உயிர்மெய்,34,34,.png:34,numeric:34,48x48,48x48,48x48
+யொ,உயிர்மெய்,33,33,.png:33,numeric:33,48x48,48x48,48x48
+யோ,உயிர்மெய்,33,33,.png:33,numeric:33,48x48,48x48,48x48
+யௌ,உயிர்மெய்,33,33,.png:33,numeric:33,48x48,48x48,48x48
+ரி,உயிர்மெய்,23,23,.png:23,resized:21; Scanned:1; Screenshot:1,48x48,48x48,48x48
+ரீ,உயிர்மெய்,22,22,.png:22,resized:21; Scanned:1,48x48,48x48,48x48
+ரோ,உயிர்மெய்,30,30,.png:30,numeric:6; IMG:11; PXL:1; Screenshot:12,48x48,48x48,48x48
+ரௌ,உயிர்மெய்,29,29,.png:29,numeric:6; IMG:13; PXL:1; Screenshot:9,48x48,48x48,48x48
+ள,உயிர்மெய்,28,28,.png:28,numeric:28,48x48,48x48,48x48
+ளா,உயிர்மெய்,36,36,.png:36,numeric:36,48x48,48x48,48x48
+ளி,உயிர்மெய்,37,37,.png:37,numeric:37,48x48,48x48,48x48
+ளீ,உயிர்மெய்,36,36,.png:36,numeric:36,48x48,48x48,48x48
+வ,உயிர்மெய்,30,30,.png:30,resized:29; Scanned:1,48x48,48x48,48x48
+வா,உயிர்மெய்,31,31,.png:31,resized:30; Scanned:1,48x48,48x48,48x48
+வி,உயிர்மெய்,30,30,.png:30,resized:29; Scanned:1,48x48,48x48,48x48
+வீ,உயிர்மெய்,29,29,.png:29,resized:28; Scanned:1,48x48,48x48,48x48
+க்,மெய்,37,37,.png:37,numeric:37,48x48,48x48,48x48
+ங்,மெய்,37,37,.png:37,numeric:37,48x48,48x48,48x48
+ச்,மெய்,37,37,.png:37,numeric:37,48x48,48x48,48x48
+ஞ்,மெய்,35,35,.png:35,numeric:35,48x48,48x48,48x48
+ட்,மெய்,32,32,.png:32,numeric:32,48x48,48x48,48x48
+ண்,மெய்,34,34,.png:34,numeric:34,48x48,48x48,48x48
+த்,மெய்,34,34,.png:34,numeric:34,48x48,48x48,48x48
+ந்,மெய்,35,35,.png:35,numeric:35,48x48,48x48,48x48
+ன்,மெய்,26,26,.png:26,WhatsApp:26,48x48,48x48,48x48
+ப்,மெய்,36,36,.png:36,numeric:36,48x48,48x48,48x48
+ம்,மெய்,36,36,.png:36,numeric:36,48x48,48x48,48x48
+ய்,மெய்,35,35,.png:35,numeric:35,48x48,48x48,48x48
+ர்,மெய்,38,38,.png:38,numeric:38,48x48,48x48,48x48
+ற்,மெய்,36,36,.png:36,Screenshot:36,48x48,48x48,48x48
+ல்,மெய்,28,28,.png:28,numeric:28,48x48,48x48,48x48
+ள்,மெய்,37,37,.png:37,Screenshot:37,6x11,469x451,191x185
+ழ்,மெய்,31,31,.png:31,Screenshot:31,48x48,48x48,48x48
+வ்,மெய்,35,35,.png:35,numeric:35,48x48,48x48,48x48
